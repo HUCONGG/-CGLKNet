@@ -1,5 +1,13 @@
 # CGLKNet
  CGLKNet is used for medical image segmentation
+# Requirements
+Python >= 3.8
+
+PyTorch >= 1.9.0
+
+torchvision >= 0.10.0
+
+CUDA 11.1+ (recommended for GPU training)
  #  requirements.txt
  numpy>=1.21.0
 opencv-python>=4.5.0
