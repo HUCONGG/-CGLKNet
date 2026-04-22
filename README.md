@@ -17,6 +17,7 @@ GLAS: Gland segmentation dataset
 BUSI: Breast ultrasound dataset
 
 ISIC2016: Skin lesion dataset
+ # dataset
 data/
 ├── CVC-ClinicDB/
 │   ├── images/
