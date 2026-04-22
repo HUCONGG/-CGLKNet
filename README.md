@@ -19,7 +19,7 @@ BUSI: Breast ultrasound dataset
 ISIC2016: Skin lesion dataset
  # dataset
 data/
-├── CVC-ClinicDB/
+├── CVC-ClinicDB
 │   ├── images/
 │   │   ├── 0001.png
 │   │   └── ...
