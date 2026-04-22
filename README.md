@@ -9,6 +9,11 @@ tqdm>=4.64.0
 tensorboard>=2.10.0
 scikit-learn>=1.0.0
 scipy>=1.7.0
+# Install PyTorch with CUDA support
+pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
+
+# Install other dependencies
+pip install -r requirements.txt
  # dataset
 CVC-ClinicDB: Polyp segmentation dataset
 
